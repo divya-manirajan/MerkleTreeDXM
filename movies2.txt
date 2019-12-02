@@ -1,0 +1,32 @@
+1, Liam Neeson, Shia LaBeouf, Transformers
+2, Angelina Jolie, Liev Schreiber, Salt
+3, Robert Downey Jr, Gwyneth Paltrow, Iron Man
+4, Chris Evans, Hayley Atwell, Captain America
+5, Holly Hunter, Crag T. Nelson, The Incredibles
+6, Will Ferrell, Tina Fey, Megamind
+7, Keanu Reeves, Laurence Fishburne, The Matrix
+8, Anne Hathaway, Hugh Dancy, Ella Enchanted
+9, Merryl Streep, Amanda Seyfried, Mamma Mia 
+10, Lily Collins, Armie Hammer, Mirror Mirror
+11, Alexa PenaVega, Daryl Sabara, Spy Kids
+12, Idris Elba, Charlie Hunnam, Pacific Rim
+13, Ben Stiller, Robin Williams, Night at the Museum
+14, Bradley Cooper, Abbie Cornish, Limitless
+15, Chris Hemsworth, Natalie Portman, Thor 
+16, Gal Gadot, Henry Cavill, Justice League
+17, Colin Firth, Taron Egerton, Kingsman
+18, Sam Worthington, Liam Neeson, Clash of the Titans
+19, Gal Gadot, Chris Pine, Wonder Woman
+20, Liam Neeson, Maggie Grace, Taken
+21, Matt Damon, Julia Stiles, Jason Bourne
+22, Jessica Alba, Chris Evans, Fantastic Four
+23, Sophie Turner, James McAvoy, Dark Phoenix
+24, Gerard Butler, Brenton Thwaites, Gods of Egypt
+25, Steve Carell, Miranda Cosgrove, Despicable Me
+26, Denzel Washington, Chloe Grace Moretz, The Equalizer
+27, Jack Black, Angelina Jolie, Kung Fu Panda
+28, Mike Myers, Eddie Murphy, Shrek
+29, Kevin James, Raina Rodriguez, Paul Blart: Mall Cop
+30, Keanu Reeves, Ian McShane, John Wick
+31, Jaden Smith, Jackie Chan, Karate Kid
+32, Hugh Jackman, Zendaya, The Greatest Showman
